@@ -2,6 +2,8 @@
 
 슈퍼패미컴 「요코야마 미츠테루 삼국지」(엔젤, 1992) 1편 한글 패치입니다. (비영리 팬 번역)
 
+![화면 예시](screenshots_2x2.png)
+
 ## 필요한 롬
 - **Yokoyama Mitsuteru Sangokushi (Japan) (Rev 1)**, 1,048,576바이트
 - SHA-256 `414702673ddbeffd61e2919b05e7cdbfb6fc90920f386c328ac8beedafeeac30`
